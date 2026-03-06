@@ -10,11 +10,17 @@ Vaadin Web Application – oferă o interfață web pentru vizualizarea și gest
 Aplicația simulează gestionarea produselor și comenzilor într-un sistem de tip magazin.
 
 Funcționalități:
+
 -Model orientat obiect format din 10 entități JPA
+
 -Ierarhie de moștenire între entități
+
 -Schema SQL generată automat din modelul de entități
+
 -Operații CRUD prin repository-uri
+
 -Teste JPA pentru generarea tranzacțională de date
+
 -Interfață web Vaadin cu două view-uri:
                                         -vizualizarea datelor (list/grid)
                                         -formular pentru operații CRUD
